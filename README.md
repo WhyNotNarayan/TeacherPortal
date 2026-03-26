@@ -77,14 +77,14 @@ Middleware: JwtFilter intercepts every request to validate the token.
 
 State Management: React Context API manages user session across the app.
 ```
-<p>
+
 👨‍💻 Developer
 Aaditya Internship 2026 ⭐ Leave a star if you find this helpful!
-</p>
+```
 <div align="center">
 <sub>Built with ❤️ using <b>CodeIgniter 4</b> & <b>React</b></sub>
 </div>
-```
+
 
 -----
 
